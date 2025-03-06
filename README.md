@@ -3,7 +3,7 @@
 Welcome to my Github repo
 
 ## Languages
-![25 projects](https://shields.io/badge/projects-05-green) ![25 projects](https://shields.io/badge/projects-05-green)
+![25 projects](https://shields.io/badge/projects-05-green)     ![25 Repositories](https://shields.io/badge/Repositories-25-green)
 <!--
 **SatyamKumar905/SatyamKumar905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
