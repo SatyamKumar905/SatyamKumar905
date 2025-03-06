@@ -13,9 +13,9 @@ Welcome to my Github repo
 [![](https://img.shields.io/badge/-React-green?logo=react)](#)
 [![](https://img.shields.io/badge/-JAVA-red?logo=java)](#)
 [![](https://img.shields.io/badge/-DSA-green?logo=dsa)](#)
-[![](https://img.shields.io/Node.js/-Node.js-blue-green?logo=node.js)](#)
+[![](https://img.shields.io/Node.js/-Node.js-bluegreen?logo=node.js)](#)
 [![](https://img.shields.io/badge/Node.js?labelColor=yellow)](#)
-[![](https://img.shields.io/badge/-JAVA-yello?logo=java)](#)
+
 
 
 <!--
