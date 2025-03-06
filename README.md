@@ -6,8 +6,8 @@ Welcome to my Github repo
 [![25 Repositories](https://shields.io/badge/Repositories-25-green)](#)
 
 ### Languages
-[![](https://img.shields.io/badge/-HTML5-green?logo=html5)](#)
-[![](https://img.shields.io/badge/-CSS3-green?logo=css3)](#)
+[![](https://img.shields.io/badge/-HTML5-yello?logo=html5)](#)
+[![](https://img.shields.io/badge/-CSS3-yello?logo=css3)](#)
 [![](https://img.shields.io/badge/-JavaScript-green?logo=javascript)](#)
 [![](https://img.shields.io/badge/-Angular-green?logo=angular)](#)
 [![](https://img.shields.io/badge/-React-green?logo=react)](#)
