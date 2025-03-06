@@ -11,7 +11,7 @@ Welcome to my Github repo
 [![](https://img.shields.io/badge/-JavaScript-green?logo=javascript)](#)
 [![](https://img.shields.io/badge/-Angular-green?logo=angular)](#)
 [![](https://img.shields.io/badge/-React-green?logo=react)](#)
-[![](https://img.shields.io/badge/-JAVA-green?logo=Java)](#)
+[![](https://img.shields.io/badge/-JAVA-green?logo=java)](#)
 [![](https://img.shields.io/badge/-DSA-green?logo=dsa)](#)
 [![](https://img.shields.io/Node.js/-HTML5-green?logo=node.js)](#)
 <!--
