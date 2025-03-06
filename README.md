@@ -8,12 +8,12 @@ Welcome to my Github repo
 ### Languages
 [![](https://img.shields.io/badge/-HTML5-yello?logo=html5)](#)
 [![](https://img.shields.io/badge/-CSS3-yello?logo=css3)](#)
-[![](https://img.shields.io/badge/-JavaScript-green?logo=javascript)](#)
-[![](https://img.shields.io/badge/-Angular-green?logo=angular)](#)
+[![](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)](#)
+[![](https://img.shields.io/badge/-Angular-blue?logo=angular)](#)
 [![](https://img.shields.io/badge/-React-green?logo=react)](#)
-[![](https://img.shields.io/badge/-JAVA-green?logo=java)](#)
+[![](https://img.shields.io/badge/-JAVA-red?logo=java)](#)
 [![](https://img.shields.io/badge/-DSA-green?logo=dsa)](#)
-[![](https://img.shields.io/Node.js/-HTML5-green?logo=node.js)](#)
+[![](https://img.shields.io/Node.js/-Node.js-blue-green?logo=node.js)](#)
 <!--
 **SatyamKumar905/SatyamKumar905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
