@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 Welcome to my Github repo
+
+## Languages
 <!--
 **SatyamKumar905/SatyamKumar905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
