@@ -2,8 +2,8 @@
 
 Welcome to my Github repo
 
-[![25 projects](https://shields.io/badge/projects-05-green)](#)    
-[![25 Repositories](https://shields.io/badge/Repositories-25-green)](#)
+[![]25 projects](https://shields.io/badge/projects-05-green)](#)    
+[![]25 Repositories](https://shields.io/badge/Repositories-25-green)](#)
 
 ### Languages
 [![](https://img.shields.io/badge/-HTML5-yello?logo=html5)](#)
