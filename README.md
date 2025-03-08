@@ -2,7 +2,7 @@
 
 Welcome to my Github repo
 
-[![](https://shields.io/badge/projects-05-green)](#)
+[![](https://shields.io/badge/projects-25-green)](#)
 [![](https://shields.io/badge/Repositories-15-green)](#)
 
 ### Languages
